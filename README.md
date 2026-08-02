@@ -24,9 +24,9 @@ I'm **Amnesia**, a beginner DevOps engineer.
 
 ## Pet Projects
 
-- **[go-monitor](https://github.com/Amnez3a/go-monitor)** — a server health monitoring tool written in Go, with a Docker-focused fork
-- **PYfetch** — my own FastFetch-like system info tool, written in Python
-- **PYdotf** *(archived)* — a dotfile manager, superseded by home-manager
+- **[go-monitor](https://github.com/Amnez3a/go-monitor)** - a server health monitoring tool written in Go, with a Docker-focused fork
+- **PYfetch** - my own FastFetch-like system info tool, written in Python
+- **PYdotf** *(archived)* - a dotfile manager, superseded by home-manager
 
 ---
 ## Other
