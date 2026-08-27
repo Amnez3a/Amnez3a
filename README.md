@@ -32,7 +32,7 @@ I'm **Amnesia**, a beginner DevOps engineer.
 
 ### My rice
 
-![image1](image1.png)
+![image1](images/image1.png)
 
 ---
 
