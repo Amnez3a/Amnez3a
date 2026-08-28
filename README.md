@@ -34,6 +34,7 @@ I'm **Amnesia**, a beginner DevOps engineer.
 
 ![image1](images/image1.png)
 
+[Dots](https://github.com/Amnez3a/SwayFX-dots)
 ---
 
 ### Other platforms
