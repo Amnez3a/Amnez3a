@@ -40,6 +40,7 @@ I'm **Amnesia**, a beginner DevOps engineer.
 ### Other platforms
 
 **GitLab**: [Click me!](https://gitlab.com/amnes0a)
-Telegram: [Click me!](https://t.me/Amnez0a)
+
+Telegram: [Click me!](https://t.me/amnes0a)
 
 ---
