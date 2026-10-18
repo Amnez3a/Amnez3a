@@ -1,13 +1,14 @@
 # Hello
 
-I'm **Amnesia**, a beginner DevOps engineer.
+I'm **Amnesia**, a beginner Backend developer + DevOps engineer.
 
 - From Russia
 - User NixOS
-- Currently learning **Go, Nix and Docker**
-- Also exploring: Bash, Nix, Rust, Elixir
-- DevOps stack: Terraform, Kubernetes, Docker, CI/CD
-
+- Currently learning **Elixir, Nix and Docker**
+- Also exploring: Bash, Nix, Rust, Golang
+- DevOps stack: Ansible/Terraform, Kubernetes, Docker, CI/CD
+- Backend stack: null
+- Favorite programming language: Elixir💜
 ---
 
 ## Tech Stack
@@ -42,5 +43,7 @@ I'm **Amnesia**, a beginner DevOps engineer.
 **GitLab**: [Click me!](https://gitlab.com/amnes0a)
 
 Telegram: [Click me!](https://t.me/amnes0a)
+
+Matrix ID: @amnes0a:matrix.org
 
 ---
